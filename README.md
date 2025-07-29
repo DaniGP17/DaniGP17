@@ -1,5 +1,3 @@
-![kofi](https://github.com/user-attachments/assets/bec24cf7-127f-49aa-aff2-9156ea505f2b)<img src="https://komarev.com/ghpvc/?username=daniigp&label=Profile%20views&color=0e75b6&style=flat" alt="daniigp" /> 
-
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+DanielGP!;Teen+who+loves+programming;" />
 </h1>
